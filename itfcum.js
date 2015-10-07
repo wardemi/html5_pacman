@@ -1,4 +1,4 @@
-function move(pname,px,py,pmap){
+function itfcum(pname,px,py,pmap){
     $("body").trigger({
 			type: "refreshmap",
 			name: pname,
